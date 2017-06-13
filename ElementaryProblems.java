@@ -3,7 +3,7 @@ package com.company;
 import java.util.Calendar;
 import java.util.Scanner;
 
-public class Main {
+public class ElementaryProblems {
 
     public static void main(String[] args) {
 	// write your code here
